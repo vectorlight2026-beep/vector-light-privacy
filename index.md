@@ -44,7 +44,7 @@ Uygulama "olduğu gibi" (as-is) sunulmaktadır. Geliştirici:
 - **Lee Filters®** ve **Rosco®** ilgili şirketlerin tescilli markalarıdır
 - Uygulama bu markalarla **ilişkili değildir** ve **resmî olarak onaylanmamıştır**
 - Filtre verileri kamuya açık kaynaklardan derlenmiştir
-- Uygulama kodu © 2026 Erkan Uyar
+- Uygulama kodu © 2026 Vector Light
 
 ## 7. Güncellemeler
 
@@ -60,8 +60,8 @@ Bu koşullar **Türkiye Cumhuriyeti** yasalarına tabidir.
 
 ## 10. İletişim
 
-📧 **E-posta:** SENIN_EPOSTAN@example.com
+📧 **E-posta:** VECTORLIGHT2026@gmail.com
 
 ---
 
-**© 2026 Erkan Uyar. Tüm hakları saklıdır.**
+**© 2026 Vector Light. Tüm hakları saklıdır.**

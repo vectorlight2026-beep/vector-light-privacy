@@ -1,67 +1,83 @@
-# Vector Light Filters — Kullanım Koşulları
+# Vector Light Filters — Gizlilik Politikası
 
-**Son Güncelleme:** 9 Ekim 2026
+**Son Güncelleme:** 10 Ekim 2026
 
-## 1. Kabul
+## 1. Genel Bilgilendirme
 
-Vector Light Filters uygulamasını ("Uygulama") indirerek ve kullanarak bu Kullanım Koşullarını kabul etmiş sayılırsınız. Koşulları kabul etmiyorsanız Uygulamayı kullanmayınız.
+Vector Light Filters ("Uygulama"), profesyonel isik filtresi kutuphanesi ve 3D simulasyon aracidir. Bu gizlilik politikasi, Uygulamayi kullandiginizda hangi bilgilerin toplandigini, nasil kullanildigini ve korundugunu aciklar.
 
-## 2. Lisans
+Uygulamayi indirerek ve kullanarak bu politikayi kabul etmis sayilirsiniz.
 
-Uygulama, kişisel ve ticari kullanım için **ücretsiz** olarak sunulmaktadır. Size verilen lisans:
-- ✅ Kişisel kullanım
-- ✅ Profesyonel prodüksiyonlarda kullanım
-- ✅ Eğitim amaçlı kullanım
+## 2. Toplanan Bilgiler
 
-**İzin verilmeyen kullanımlar:**
-- ❌ Uygulamayı kopyalayıp satmak
-- ❌ Tersine mühendislik
-- ❌ Kaynak kodu değiştirip yeniden dağıtmak
+### 2.1. Toplamadigimiz Bilgiler
 
-## 3. Veri Doğruluğu
+Vector Light Filters **hicbir kisisel veri toplamaz, saklamaz veya ucuncu taraflarla paylasmaz.** Uygulama tamamen **offline** calisir.
 
-Uygulamadaki ışık filtresi verileri (Lee Filters, Rosco) **referans amaçlıdır**. Profesyonel prodüksiyonlarda **üretici firmanın resmî verilerini** kullanmanızı öneririz.
+Ozellikle asagidaki bilgileri **toplamiyoruz**:
+- Ad, soyad, e-posta adresi
+- Telefon numarasi, adres
+- Konum bilgisi
+- Kisi listesi, fotograflar, mesajlar
+- Saglik verileri
+- Cihaz kimlik numarasi (IDFA / IDFV)
+- Kullanim istatistikleri
 
-- Lee Filters verileri: https://www.leefilters.com
-- Rosco verileri: https://www.rosco.com
+### 2.2. Yerel Olarak Saklanan Bilgiler
 
-Renk değerleri ekran kalibrasyonuna, aydınlatma koşullarına ve kamera ayarlarına göre farklılık gösterebilir.
+Asagidaki veriler **sadece cihazinizda** saklanir ve hicbir sunucuya gonderilmez:
+- Sectiginiz isik renkleri ve ayarlari
+- 3D sahnedeki isik konumlari
+- Uygulama tercihleri
 
-## 4. 3D Simülasyon
+Bu veriler uygulamayi sildiginizde otomatik olarak silinir.
 
-3D simülasyon **görsel referans** amaçlıdır. Gerçek ışık davranışını birebir yansıtmaz. Profesyonel planlamada gerçek ekipman testi yapılmalıdır.
+## 3. Internet Erisimi
 
-## 5. Sorumluluk Reddi
+Uygulama, 3D simulasyon kutuphanesi (Three.js) icin CDN uzerinden icerik yukler. Bu yukleme sirasinda:
+- Hicbir kullanici verisi gonderilmez
+- Sadece statik JavaScript dosyasi indirilir
+- CDN saglayicisi (Cloudflare) teknik baglanti verilerini (IP adresi) gecici olarak gorebilir; bu veriler tarafimizca toplanmaz
 
-Uygulama "olduğu gibi" (as-is) sunulmaktadır. Geliştirici:
-- Uygulamanın kesintisiz çalışacağını garanti etmez
-- Veri kaybından sorumlu değildir
-- Profesyonel prodüksiyon sonuçlarından sorumlu değildir
-- Dolaylı zararlardan sorumlu tutulamaz
+## 4. Ucuncu Taraf Hizmetler
 
-## 6. Fikri Mülkiyet
+Uygulama, asagidaki ucuncu taraf hizmetleri kullanir:
 
-- **Lee Filters®** ve **Rosco®** ilgili şirketlerin tescilli markalarıdır
-- Uygulama bu markalarla **ilişkili değildir** ve **resmî olarak onaylanmamıştır**
-- Filtre verileri kamuya açık kaynaklardan derlenmiştir
-- Uygulama kodu © 2026 Vector Light
+- Three.js (CDN) - 3D simulasyon motoru
+- Apple WebKit - Web icerik goruntuleme
 
-## 7. Güncellemeler
+**Reklam, analitik, izleme (tracking) SDK'si KULLANILMAMAKTADIR.**
 
-Uygulama güncellemeleri ücretsizdir. Gelecekte ücretli özellikler eklenebilir.
+## 5. Cocuklarin Gizliligi
 
-## 8. Fesih
+Uygulama 4+ yas icin uygundur. 13 yas alti cocuklardan bilerek veri toplamayiz. Zaten hicbir kisisel veri toplamadigimiz icin COPPA ve GDPR-K uyumludur.
 
-Bu lisans, siz Uygulamayı silene kadar geçerlidir.
+## 6. Veri Guvenligi
 
-## 9. Uygulanacak Hukuk
+- Uygulama **hicbir veri toplamadigi icin** veri sizintisi riski yoktur
+- Tum veriler **cihazinizda yerel olarak** saklanir
+- Apple'in App Sandbox korumasi altindadir
 
-Bu koşullar **Türkiye Cumhuriyeti** yasalarına tabidir.
+## 7. Kullanici Haklari (GDPR / KVKK)
 
-## 10. İletişim
+GDPR (AB) ve KVKK (Turkiye) kapsaminda kullanicilarin:
+- Verilerine erisim
+- Verilerini silme
+- Veri islemeyi reddetme
+- Sikayet hakki
 
-📧 **E-posta:** VECTORLIGHT2026@gmail.com
+haklari vardir. Ancak Uygulama hicbir veri toplamadigi icin bu haklar otomatik olarak korunmaktadir.
+
+## 8. Degisiklikler
+
+Bu politika zaman zaman guncellenebilir. Onemli degisiklikler uygulama icinde bildirilecektir.
+
+## 9. Iletisim
+
+Gizlilik politikasiyla ilgili sorulariniz icin:
+
+**E-posta:** vectorlight2026@gmail.com.com
 
 ---
 
-**© 2026 Vector Light. Tüm hakları saklıdır.**
+**© 2026 Erkan Uyar. Tum haklari saklidir.**

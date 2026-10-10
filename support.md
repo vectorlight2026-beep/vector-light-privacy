@@ -8,7 +8,7 @@ Bu sayfa, Vector Light Filters uygulamasıyla ilgili yardım ve iletişim bilgil
 
 Her türlü soru, öneri ve hata bildirimi için:
 
-**E-posta:** destek@ornek.com
+**E-posta:** vectorlight2026@gmail.com
 *(Buraya kendi e-posta adresini yaz)*
 
 ---
@@ -69,4 +69,4 @@ Kullanım koşullarımıza buradan ulaşabilirsiniz: [Kullanım Koşulları](ter
 
 ---
 
-**© 2026 Erkan Uyar**
+**© 2026 Vector Light**
